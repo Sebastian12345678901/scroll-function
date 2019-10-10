@@ -1,0 +1,18 @@
+.my-square {
+  background-color: red;
+  width: 100px;
+  height: 100px;
+}
+
+.my-square-array {
+  background-color: red;
+  width: 100px;
+  height: 100px;
+  margin: 5px;
+}
+
+.test {
+  background-color: black;
+  width: 500px;
+  height: 500px;
+}
